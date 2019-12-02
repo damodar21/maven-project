@@ -13,7 +13,7 @@ public class Greeter {
   }
 
 
-  /* This is test program to check if import junit.framework.TestCase;
+  /** This is test program to check if import junit.framework.TestCase;
   is working fine with the github
   */
 
