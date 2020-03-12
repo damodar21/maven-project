@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'mvn clean package'
+                sh '/home/damodar/Downloads/apache-maven-3.6.3/bin/mvn clean package'
             }
         }
 
